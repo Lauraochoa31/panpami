@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/panpami/static/css/main.f855e6bc.css",
-    "main.js": "/panpami/static/js/main.b1795c18.js",
-    "static/js/453.372e0515.chunk.js": "/panpami/static/js/453.372e0515.chunk.js",
-    "index.html": "/panpami/index.html",
-    "main.f855e6bc.css.map": "/panpami/static/css/main.f855e6bc.css.map",
-    "main.b1795c18.js.map": "/panpami/static/js/main.b1795c18.js.map",
-    "453.372e0515.chunk.js.map": "/panpami/static/js/453.372e0515.chunk.js.map"
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.b1795c18.js",
+    "static/js/453.372e0515.chunk.js": "/static/js/453.372e0515.chunk.js",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.b1795c18.js.map": "/static/js/main.b1795c18.js.map",
+    "453.372e0515.chunk.js.map": "/static/js/453.372e0515.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
